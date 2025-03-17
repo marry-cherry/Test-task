@@ -3,4 +3,9 @@
 /new_section/
 /cgi-bin/
 /auth/
-/upload/
+/upload/.DS_Store
+.access.php
+.htaccess
+.section.php
+404.php
+urlrewrite.php
